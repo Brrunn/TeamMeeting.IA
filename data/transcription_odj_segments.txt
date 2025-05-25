@@ -1,0 +1,17 @@
+ODJ 1 — Rapports TM et Objectifs SMART
+Résumé : Il a été souligné l'importance pour les Chefs de Projets de remplir leurs objectifs SMART fixés, avec un suivi particulier sur l'application de ces objectifs. De plus, il a été rappelé l'importance d'envoyer des mails aux RH en cas d'absence à des formations ou événements.
+
+ODJ 2 — Accompagnement et Questions Milités
+Résumé : L'équipe a décidé de ne pas proposer de points d'accompagnement accélérés pour les milités, mais encourage l'utilisation des canaux de questions pour identifier les faiblesses globales. Il a été insisté sur l'importance de l'entraide entre les membres pour la configuration des environnements de développement.
+
+ODJ 3 — Prospectix et Objectifs d'Appels
+Résumé : Il a été annoncé la mise en place d'un système de "strix" (ou "streak") pour motiver à réaliser 5 appels par jour via Prospectix. Plus la "streak" est longue, plus les récompenses sont importantes. Les récompenses seront définies par l'équipe commerciale. En cas d'absence d'appels sur une journée, la streak retombe à zéro.
+
+ODJ 4 — Audit CNJE des Boîtes
+Résumé : William Cardew a présenté le processus d'audit des boîtes d'études pour l'Audit CNJE. Il a vérifié que tous les chefs de projets ont accès à la page Notion dédiée. Il a expliqué le workflow : audit, à clinner, ré-auditée. Il a été demandé aux chefs de projets de répartir l'audit de leurs boîtes d'études sur plusieurs jours pour éviter de tout faire au dernier moment et de se fixer un rythme de 2-3 par semaine. Il a été rappelé l'importance de ce processus pour la junior-entreprise. Il a été expliqué qu'il faut utiliser le questionnaire disponible pour réaliser l'audit de chaque étude et ping le chef de projet concerné en cas d'éléments à modifier.
+
+ODJ 5 — Mises à jour des Signatures
+Résumé : Il a été demandé à tous les chefs de projets élus à un nouveau poste d'administrateur de mettre à jour leur signature de mail avec leur nouveau poste (ex: Vice-trésorier entrant). Cette mise à jour doit être effectuée avant la fin de la semaine. L'ancienne mention "Chef de Projet" doit être supprimée.
+
+ODJ 6 — Réactivité sur Slack
+Résumé : Il a été rappelé à tous l'importance de réagir aux messages Slack, car c'est le seul moyen de s'assurer que l'information a été reçue par tous. L'exemple du décalage du TM a été donné pour illustrer le manque de réactions.
