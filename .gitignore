@@ -17,3 +17,6 @@ data/*.mp3
 
 # Logs
 *.log
+
+# Clé API Gemini 
+app/.env
