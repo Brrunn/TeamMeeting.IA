@@ -11,6 +11,8 @@ from app.text_processing import process_transcription
 from app.doc_creation import generate_docx_from_segments
 
 DATA_DIR = "data"
+if not os.path.exists(DATA_DIR):
+    os.makedirs(DATA_DIR)
 TEMPLATE_FILE = os.path.join(DATA_DIR, "CRC-TemplateIA.docx")
 OUTPUT_FILE = os.path.join(DATA_DIR, "compte_rendu_filled_gemini.docx")
 TRANSCRIPTION_TXT = os.path.join(DATA_DIR, "transcription.txt")
@@ -22,6 +24,9 @@ uploaded_file = st.file_uploader("📤 Upload un fichier audio (.mp3 ou .wav)", 
 
 if uploaded_file:
     file_path = os.path.join(DATA_DIR, uploaded_file.name)
+    print("uploaded_file:", uploaded_file)
+    print("file_path:", file_path)
+    print("os.path.exists(file_path):", os.path.exists(file_path))
     with open(file_path, "wb") as f:
         f.write(uploaded_file.getbuffer())
 

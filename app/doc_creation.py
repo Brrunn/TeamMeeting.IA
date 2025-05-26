@@ -1,10 +1,13 @@
 def generate_docx_from_segments(transcription_file, template_file, output_file):
     import re
+    import os
     from docx import Document
     import requests
+    from dotenv import load_dotenv
+    load_dotenv()
 
-    gemini_api_key = "AIzaSyBVzPQY8m7wg1iweqE2ZMXHyF0I_0NaXxs"
-    endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={gemini_api_key}"
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+    endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
 
     with open(transcription_file, "r", encoding="utf-8") as f:
         content = f.read()

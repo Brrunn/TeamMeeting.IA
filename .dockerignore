@@ -13,4 +13,4 @@ __pycache__/
 venv/
 data/*.wav
 data/*.mp4
-.env
+
