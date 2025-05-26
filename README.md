@@ -1,18 +1,18 @@
 
 
 ## Structure : 
-📁 app/
-├── doc_creation.py # Génère le compte rendu Word via Gemini
-├── main.py # Script principal (exécution locale)
-├── record.py # Enregistre l’audio depuis le micro (non utilisé pour le moment car on drag and drop des fichiers .wav pour le moment, mais faites vous plaisir si vous voulez l'activer)
-├── streamlit_app.py # Interface utilisateur
-├── text_processing.py # Nettoie et segmente le texte transcrit
-├── transcript.py # Transcrit le fichier audio avec Whisper
-📁 data/
-├── CRC-TemplateIA.docx # Template Word utilisé pour générer les CR
-├── .wav # Fichiers audio source
-├── transcription.txt # Résultat brut de la transcription
-├── compte_rendu_.docx # Compte rendu final généré
+📁 app/ </br>
+├── doc_creation.py # Génère le compte rendu Word via Gemini </br>
+├── main.py # Script principal (exécution locale) </br>
+├── record.py # Enregistre l’audio depuis le micro (non utilisé pour le moment car on drag and drop des fichiers .wav pour le moment, mais faites vous plaisir si vous voulez l'activer) </br>
+├── streamlit_app.py # Interface utilisateur </br>
+├── text_processing.py # Nettoie et segmente le texte transcrit </br>
+├── transcript.py # Transcrit le fichier audio avec Whisper </br>
+📁 data/ </br>
+├── CRC-TemplateIA.docx # Template Word utilisé pour générer les CR </br>
+├── .wav # Fichiers audio source </br>
+├── transcription.txt # Résultat brut de la transcription </br>
+├── compte_rendu_.docx # Compte rendu final généré </br>
 
 ### 1. Cloner le dépôt
 
